@@ -1,4 +1,4 @@
-# co20249b69609b9df5473acc7
+# scrimba-map
 
 Quick start:
 
